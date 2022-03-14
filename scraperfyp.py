@@ -39,10 +39,10 @@ if __name__ == '__main__':
         access_token_secret = input('Access Token Secret ')
         hashtag_phrase = input('Hashtag Phrase ')
     else:
-        consumer_key = 'SpZ98DmWucCaob3sJ78IchMgu'
-        consumer_secret = 'XTH4jw8hbLHs5uBq0mJbjONF4CS1Tkfz6cBPaMuKR87XWQaHF1'
-        access_token = '1050371794941534209-EUYr8jy4K1sUQZn2D5VOutRGfunK3G'
-        access_token_secret = '6BcazIFjRuqXeOJpWWqb0TyocxnwKqE6ptotKarxYFpOF'
+        consumer_key = '/'
+        consumer_secret = '/'
+        access_token = '/'
+        access_token_secret = '/'
         hashtag_phrase = input('Hashtag Phrase ')
 
     search_for_hashtags(consumer_key, consumer_secret, access_token, access_token_secret, hashtag_phrase)
